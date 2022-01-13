@@ -1,4 +1,4 @@
-{ bug_summary":"registration window nothing show up when login is writed",
+{ "bug_summary":"registration window shows nothing up when login in",
 "severity":"critical",
 "step_to_reproduse":["open registration page", "enter login"],
 "actual_result":"login is not displayed",
