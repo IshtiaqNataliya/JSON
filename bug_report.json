@@ -2,5 +2,5 @@
 "severity":"critical",
 "step_to_reproduse":["open registration page", "enter login"],
 "actual_result":"login is not displayed",
-"expected_result":"login is displayed"
+"expected_result":"login is displayed",
 "priority":"high"}
